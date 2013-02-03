@@ -1,0 +1,1 @@
+Slim::Engine.set_default_options :shortcut => {'@' => 'data-behavior', '#' => 'id', '.' => 'class'}, :pretty => true, :tabsize => 2
